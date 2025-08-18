@@ -31,7 +31,7 @@ Here’s the block layout of the input:
 aaaaaaaaaaaaaaaa  ,azjnjpghgv@nots  cript.sorcerer,y  ellow__submarine  @acript.sorcerer
 ```
 
-Our goal is to modify the email so the domain becomes **@script.sorcerer** (a valid domain).
+Our goal is to modify the last email so the domain becomes **@script.sorcerer** (a valid domain) while still containing the provided email. Block1 is only used to modify Block2.
 
 Steps:
 
